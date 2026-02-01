@@ -1,0 +1,8 @@
+title: moldis-group
+logo: /assets/img/benzene.gif
+description:
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+defaults:
+  layout: single
